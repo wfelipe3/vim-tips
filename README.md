@@ -7,8 +7,10 @@
 * To delete from caret use `de` and `.` to remove more words
 * To delete between parents use `dib` and to also delete parents use `dab`
 * To delete between " use `di"` 
+* To delete line `dd`
 
+## Moving
 
-this is a test (slkfjslkdfj klsdjflk sj) ""
+* To move to the next parent use `%`
 
 
